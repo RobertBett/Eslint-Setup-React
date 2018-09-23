@@ -1,8 +1,8 @@
 Basic Eslint Setup for React Apps
 
-Clone this into your repo IT IS NOT A STAND ALONE APP.
+Create an `.eslinttrc` file and the   `.eslintignore` file.
 
-All you need is in the `.eslinttrc` file and the   `.eslintignore` file.
+Copy the code in the repo
 
 Run with either   `yarn` or `npm`.
 

@@ -1,6 +1,6 @@
 Basic Eslint Setup for React Apps
 
-Create an `.eslinttrc` file and the   `.eslintignore` file.
+Create an `.eslinttrc` file and `.eslintignore` file.
 
 Copy the code in the repo
 

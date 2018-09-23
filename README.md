@@ -10,9 +10,10 @@ Make sure you install these packages.
 
 if using Yarn run `yarn add [package name]` if npm run `npm install [ package name]`
 
-`eslint`
-`eslint-config-airbnb`
-`eslint-plugin-babel`
-`eslint-plugin-import`
-`eslint-plugin-jsx-a11y`
-`eslint-plugin-react`
+```
+eslint
+eslint-config-airbnb
+eslint-plugin-babel
+eslint-plugin-import
+eslint-plugin-jsx-a11y
+eslint-plugin-react```

@@ -1,6 +1,6 @@
 Basic Eslint Setup for React Apps
 
-Clone this into your repo ITS IS NOT A STAND ALONE APP.
+Clone this into your repo IT IS NOT A STAND ALONE APP.
 
 All you need is in the `.eslinttrc` file and the   `.eslintignore` file.
 
